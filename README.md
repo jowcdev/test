@@ -1,13 +1,5 @@
-# Defi Yield Aggregator
-
-[Youtube Lesson(Dapp university)](https://www.youtube.com/watch?v=Oia7uz-jXJI&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY&index=3)
-
-This project is a simple decentrialized app where a user can deposit DAI into our smart contract.
-Once funds are deposited, the contract compares the interest rate of Compound & Aave, and deposits
-funds to whichever has the highest interest rate. The user can rebalance his/her funds to ensure
-that the funds are still currently in the higher interest rate protocol, and can also withdraw at
-any time.
-
+# 收益聚合器项目
+  
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contract)
@@ -27,7 +19,7 @@ any time.
 
 ## Setting Up
 ### 1. Clone the Repository:
-`$ git clone https://github.com/dappuniversity/yield-aggregator.git`
+`$ git clone https://github.com/jowcdev/yield_Dapp.git`
 
 ### 2. Install Dependencies:
 ```
